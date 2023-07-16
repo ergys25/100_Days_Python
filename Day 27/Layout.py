@@ -1,3 +1,6 @@
+"""
+layout
+"""
 from tkinter import *
 
 #Creating a new window and configurations
