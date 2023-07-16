@@ -1,3 +1,8 @@
+"""
+
+playground
+"""
+
 from tkinter import *
 
 window = Tk()
