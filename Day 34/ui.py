@@ -1,3 +1,7 @@
+"""
+ui
+"""
+
 from tkinter import *
 from quiz_brain import QuizBrain
 
