@@ -1,3 +1,4 @@
+"""scoreboard"""
 from turtle import Turtle
 
 ALIGNMENT = "center"
