@@ -1,6 +1,6 @@
 """
 
-playground
+playground.py
 """
 
 from tkinter import *
