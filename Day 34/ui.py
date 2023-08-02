@@ -1,5 +1,6 @@
 """
-ui
+ui.py
+
 """
 
 from tkinter import *
