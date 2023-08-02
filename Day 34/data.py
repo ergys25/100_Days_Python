@@ -1,5 +1,5 @@
 """
-data
+data.py
 """
 import requests
 
