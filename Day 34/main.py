@@ -1,5 +1,5 @@
 """
-main
+main.py
 """
 
 from question_model import Question
