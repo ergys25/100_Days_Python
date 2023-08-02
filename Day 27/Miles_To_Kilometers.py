@@ -1,6 +1,6 @@
 """
 
-miles to km
+miles to km.py
 """
 
 from tkinter import *
