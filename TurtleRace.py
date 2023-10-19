@@ -12,7 +12,7 @@ all_turtles = []
 #Create 6 turtles
 for turtle_index in range(0, 6):
     new_turtle = Turtle(shape="turtle")
-    new_turtle.penup()
+    new_turtle.penup( )
     new_turtle.color(colors[turtle_index])
     new_turtle.goto(x=-230, y=y_positions[turtle_index])
     all_turtles.append(new_turtle)
