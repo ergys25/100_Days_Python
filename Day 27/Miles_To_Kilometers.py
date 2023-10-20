@@ -5,7 +5,7 @@ miles to km.py
 
 from tkinter import *
 
-window = Tk()
+window = Tk( )
 window.title("Miles to killometers")
 window.minsize(width=225, height=100)
 Km_Label = Label(text="Km")
