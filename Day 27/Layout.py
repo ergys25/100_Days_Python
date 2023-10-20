@@ -11,7 +11,7 @@ window.minsize(width=500, height=500)
 #Labels
 label = Label( text="This is old text")
 label.config(text="This is new text")
-label.pack()
+label.pack( )
 
 #Buttons
 def action():
